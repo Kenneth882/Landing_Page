@@ -1,0 +1,60 @@
+body{
+   
+}
+
+.Part_1{
+background-color:#1F2937;
+color: white;
+margin-top: -10px;
+margin-left: -8px;
+margin-right:-10px;
+padding-bottom: 270px;
+
+}
+
+.Part_2{
+    padding-bottom: 270px;
+
+}
+
+.Part_3{
+background-color: #E5E7EB;
+padding-bottom: 270px;
+}
+
+.Odin{
+    background-color:#1F2937; 
+}
+
+.header{
+    display: flex;
+    gap:10px;
+    justify-content: space-around;
+    padding-top: 10px;
+    font-weight: bold;
+    
+}
+
+.headers{
+    display: flex;
+    gap: 10px;
+    margin-left: 370px;
+    font-weight:200 ;
+    
+
+}
+
+.awesome{
+    font-size: 48px;
+    font: weight #f9faf8;
+}
+
+.subtext{
+    font-size: 18px;
+
+}
+
+button{
+    color: whitesmoke;
+    background-color: #3882f6;
+}
